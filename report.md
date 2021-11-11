@@ -5,7 +5,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлен следующий дефект:
-* https://github.com/ElenaMughi/Lesson1_MoneyTransfer/issues/1#issue-1047990435
+* [Неверный результат суммы текущего баланса и суммы перевода #1](https://github.com/ElenaMughi/Lesson1_MoneyTransfer/issues/1#issue-1047990435)
 
 ## Описание процесса тестирования
 
